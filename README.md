@@ -1,4 +1,4 @@
 # hello-world
 Hello World repository
 
-THis is me... Neoc83!
+This is me... Neoc83!
